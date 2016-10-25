@@ -1,7 +1,8 @@
 #include <iostream>
 #include <assert.h>
+#define HAVE_LIBXML2
+#include "OhmmsData/AttributeSet.h"
 #include "OhmmsData/Libxml2Doc.h"
-//#include "OhmmsData/AttributeSet.h"
 
 using namespace std;
 
