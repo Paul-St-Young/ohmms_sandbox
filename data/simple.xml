@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<simulation>
+  <project name='test'> test </project>
+  <project name='hello'> hello </project>
+</simulation>
+
